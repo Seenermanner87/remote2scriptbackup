@@ -1,5 +1,5 @@
 --[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+	Backed up by Seenermanner87
 ]]
 local RemoteSpy = Instance.new("ScreenGui")
 local BG = Instance.new("Frame")
